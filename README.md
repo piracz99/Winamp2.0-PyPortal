@@ -26,3 +26,9 @@ PyPortala.
 Przyciski playlisty, PREV, PLAY/PAUSE, NEXT i STOP dzialaja jak wczesniej.
 Skopiuj `code.py` na dysk `CIRCUITPY`, aby uruchomic program. Pliki MP3 umiesc
 w katalogu glownym karty SD.
+
+## Zdjecia z PyPortala
+
+![Winamp2.0 PyPortal - ekran 1](./WIN_20261020_12_25_25_Pro.jpg)
+
+![Winamp2.0 PyPortal - ekran 2](./WIN_20261020_12_25_35_Pro.jpg)
